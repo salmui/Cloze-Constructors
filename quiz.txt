@@ -1,0 +1,4 @@
+Basic,What is inside of spaghetti?,Pasta and meatballs
+Basic,How many seasons are there in a year?,Four
+Cloze,He has two dogs and a cat.,two
+Cloze, BCAAs help with muscle recovery.,BCAAs
